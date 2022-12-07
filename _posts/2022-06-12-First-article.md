@@ -1,6 +1,6 @@
 ---
 title: Homepage
-date: 06-12-2022 00:00:00 -500
+date: 2022-06-12 00:00:00 -500
 categories: [introduction]
 tags: [home]
 ---
