@@ -1,5 +1,5 @@
 ---
-title: List-of-interesting-youtube-channel
+title: List of interesting youtube channel (eng/fr)
 date: 2022-07-12 00:00:00 -500
 categories: [ressources]
 tags: [ressources,youtube,video]
@@ -11,6 +11,7 @@ tags: [ressources,youtube,video]
 
 - [Thinkerview](https://www.youtube.com/@thinkerview), Bien que ne cette chaîne youtube ne soit pas liée a l'informatique, elle continue certains entretien concernant le futur du numérique, du hacking et de ces enjeux. Thinkerview est decrit par Marc Ullmann comme "un groupe indépendant issu d'internet, très diffèrent de la plupart des think-tanks qui sont inféodés à des partis politiques ou des intérêts privés."
 - [Data Gueule](https://www.youtube.com/@datagueule), Sujet de politique et de société
+
 - [Underscore](https://www.youtube.com/@Underscore_), Rediffusion de l'émission de live "_underscore" par micode, parle d'Hacking, de Dev, d'IAe et d'Entrepreneuriat avec des intervenants venant de différents milieux
 - [Micode](https://www.youtube.com/@Micode), Vulgarisation informatique et cybersécurité
 - [Fouloscopie](https://www.youtube.com/@Fouloscopie), Psychology de la foule
@@ -38,7 +39,7 @@ tags: [ressources,youtube,video]
 - [Deus Ex Silicium](https://www.youtube.com/@dexsilicium), Reverse engineering sur l'électronique
 - [cocadmin](https://www.youtube.com/@cocadmin), Admin sys & DevOps
 - [Informatrix : sécurité informatique](https://www.youtube.com/@informatrixsecuriteinforma6057), Tutoriel sur la sécurité informatique
-- [Ethnical | Informatique](https://www.youtube.com/@EthnicalNightamre), Tutoriel sur la sécurité informatique
+- [Ethnical - Informatique](https://www.youtube.com/@EthnicalNightamre), Tutoriel sur la sécurité informatique
 - [nasm - RE](https://www.youtube.com/@nasmRE), Tutoriel reverse engineering 
 - [Grafikart.fr](https://www.youtube.com/@grafikart),Tutoriel sur la programmation web
 - [PAUSE PROCESS](https://www.youtube.com/@pauseprocess5711), video sur l'informatique et la cybersécurité
