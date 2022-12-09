@@ -23,7 +23,7 @@ Les Google Dorks sont des requêtes avancées utilisées dans le moteur de reche
 - L'utilisation de la syntaxe "related:" pour trouver des sites similaires à un site spécifique.
 - L'utilisation de la syntaxe "cache:" pour afficher la version en cache d'une page Web.
 - L'utilisation de la syntaxe "info:" pour obtenir des informations sur un site Web.
-- L'opérateur "|" permet de rechercher des termes alternatifs.
+- L'opérateur OR (|)  permet de rechercher des termes alternatifs.
 - L'opérateur "&&" permet de rechercher des termes conjoints.
 - Les parenthèses "()" permettent d'empaqueter les opérateurs.
 - Les guillemets " " permettent de rechercher des phrases exactes.
