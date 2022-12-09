@@ -41,10 +41,11 @@ tags: [ressources,youtube,video]
 - [Informatrix : sécurité informatique](https://www.youtube.com/@informatrixsecuriteinforma6057), Tutoriel sur la sécurité informatique
 - [Ethnical - Informatique](https://www.youtube.com/@EthnicalNightamre), Tutoriel sur la sécurité informatique
 - [nasm - RE](https://www.youtube.com/@nasmRE), Tutoriel reverse engineering 
-- [Grafikart.fr](https://www.youtube.com/@grafikart),Tutoriel sur la programmation web
+- [Grafikart.fr](https://www.youtube.com/@grafikart), Tutoriel sur la programmation web
 - [PAUSE PROCESS](https://www.youtube.com/@pauseprocess5711), video sur l'informatique et la cybersécurité
 - [Waked XY](https://www.youtube.com/@wakedxy), Hacker Ethique
-
+- [Benjamin Code](https://www.youtube.com/@BenjaminCode), Developement Web (front-end)
+- [Parfaitement Web](https://www.youtube.com/@ParfaitementWeb), Conseils pour les développeurs
 
 ## English
 
@@ -73,3 +74,17 @@ tags: [ressources,youtube,video]
 - [HackerSploit](https://www.youtube.com/HackerSploit), Very hight quality of tutorials about cybersecurity
 - [Fun Fun Function](https://www.youtube.com/@funfunfunction), Programming tutorials
 - [PwnFunction](https://www.youtube.com/@PwnFunction), Web security explained
+- [mCoding](https://www.youtube.com/@mCoding), C++ & Python Advise
+- [AByteofCode](https://www.youtube.com/@AByteofCode), Esolang & computer science theory
+- [ArjanCodes](https://www.youtube.com/@ArjanCodes), Programming & software design tutorials
+- [Ben Eater](https://www.youtube.com/@BenEater), Computer architecture explained
+- [FireShip](https://www.youtube.com/@FireShip), Small code tutorials to learn the basics of a technology
+- [The Coding Train](https://www.youtube.com/@TheCodingTrain) Programming challenges
+- [BranchEducation](https://www.youtube.com/@BranchEducation), In-Depth explanation of systems
+- [Creel](https://www.youtube.com/@WhatsACreel) Low-level programing
+- [Hyperplexed](https://www.youtube.com/@Hyperplexed) Web dev & front-end effects
+- [Jacob Sorber](https://www.youtube.com/@JacobSorber) C programming tutorials
+- [Low Level Programming](https://www.youtube.com/@LowLevelLearning) C Assembly programming theory
+- [SebastianLague](https://www.youtube.com/@SebastianLague) Game dev tutorials (and a series about logic gates)
+- [Simon Dev](https://www.youtube.com/@simondev758) Mostly Game related tutorials
+- [3 Blue One Brown](https://www.youtube.com/@3blue1brown) Math (& something computer science) explained
