@@ -44,9 +44,6 @@ tags: [ressources,youtube,video]
 - [Grafikart.fr](https://www.youtube.com/@grafikart), Tutoriel sur la programmation web
 - [PAUSE PROCESS](https://www.youtube.com/@pauseprocess5711), video sur l'informatique et la cybersécurité
 - [Waked XY](https://www.youtube.com/@wakedxy), Hacker Ethique
-
-> With the contribution of [@Sigmanificient](https://github.com/Sigmanificient)
-
 - [Benjamin Code](https://www.youtube.com/@BenjaminCode), Developement Web (front-end)
 - [Parfaitement Web](https://www.youtube.com/@ParfaitementWeb), Conseils pour les développeurs
 
@@ -77,8 +74,6 @@ tags: [ressources,youtube,video]
 - [HackerSploit](https://www.youtube.com/HackerSploit), Very hight quality of tutorials about cybersecurity
 - [Fun Fun Function](https://www.youtube.com/@funfunfunction), Programming tutorials
 - [PwnFunction](https://www.youtube.com/@PwnFunction), Web security explained
-> With the contribution of [@Sigmanificient](https://github.com/Sigmanificient)
-
 - [mCoding](https://www.youtube.com/@mCoding), C++ & Python Advise
 - [AByteofCode](https://www.youtube.com/@AByteofCode), Esolang & computer science theory
 - [ArjanCodes](https://www.youtube.com/@ArjanCodes), Programming & software design tutorials
@@ -93,3 +88,5 @@ tags: [ressources,youtube,video]
 - [SebastianLague](https://www.youtube.com/@SebastianLague) Game dev tutorials (and a series about logic gates)
 - [Simon Dev](https://www.youtube.com/@simondev758) Mostly Game related tutorials
 - [3 Blue One Brown](https://www.youtube.com/@3blue1brown) Math (& something computer science) explained
+
+> With the contribution of [@Sigmanificient](https://github.com/Sigmanificient)
