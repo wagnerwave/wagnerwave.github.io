@@ -7,4 +7,5 @@ tags: [cybersecurity,hacking,PHP,SQL,SQLIjenction]
 
 # PowerPoint SQL Injection
 
-<image alt="PDF-about-sqlInjection" src="/assets/Injection-SQL.pdf"/>
+<object data="/assets/sqlijenction.pdf" type="application/pdf" width="100%"> 
+</object>
